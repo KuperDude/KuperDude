@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+stackoverflow: https://stackoverflow.com/users/17308585/kuper
+
 <!--
 **KuperDude/KuperDude** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
