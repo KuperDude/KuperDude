@@ -6,6 +6,34 @@
 
 ###
 
+<h1 align="center">Привет👋 Меня зовут Григорий!</h1>
+
+###
+
+<div align="center">
+  <a href="https://t.me/Greg_Fields" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+  </a>
+</div>
+
+###
+
+<h3 align="left">👩‍💻  Обо мне</h3>
+
+###
+
+<p align="left">IOS разработчик c 2+ годами опыта. Разрабатывал разные приложения (на 500+
+пользователей) как для отработки своих навыков, так и для полезных в быту.
+Слежу за нововведениями в разработки и добавляю их в свои проекты.
+Благодаря этому получил огромный практический опыт с различными
+аспектами разработки, включая разработку пользовательского интерфейса,
+взаимодействие с базами данных и интеграцию внешних API.</p>
+
+###
+
+
+###
+
 <h3 align="left">🛠 Технологии:</h3>
 
 ###
@@ -32,7 +60,7 @@
 
 <h3 align="left">🏆   Достижения :</h3>
 
-<a href="https://stackoverflow.com/users/17308585/kuper"><img src="https://stackoverflow.com/users/flair/17308585.png?theme=dark" width="208" height="58" alt="profile for Kuper at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Kuper at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+[![Kuper StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=17308585&layout=compact&theme=dark)](https://stackoverflow.com/users/17308585/Kuper)
 
 ###
 
