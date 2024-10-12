@@ -1,11 +1,9 @@
 <br clear="both">
 
 <div align="center">
-  <img height="900" width="600" src="https://github.com/user-attachments/assets/fcb0d56c-9a68-4ba6-a602-a70f645d9aca"  />
+  <img height="450" width="300" src="https://github.com/user-attachments/assets/fcb0d56c-9a68-4ba6-a602-a70f645d9aca"  />
 </div>
 
-
-stackoverflow: https://stackoverflow.com/users/17308585/kuper
 ###
 
 <h3 align="left">🛠 Технологии:</h3>
@@ -29,6 +27,12 @@ stackoverflow: https://stackoverflow.com/users/17308585/kuper
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cpp logo"  />
 </div>
+
+###
+
+<h3 align="left">🏆   Достижения :</h3>
+
+<a href="https://stackoverflow.com/users/17308585/kuper"><img src="https://stackoverflow.com/users/flair/17308585.png?theme=dark" width="208" height="58" alt="profile for Kuper at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Kuper at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 ###
 
